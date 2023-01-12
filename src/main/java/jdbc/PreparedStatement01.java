@@ -68,7 +68,5 @@ public class PreparedStatement01 {
         } catch (Exception e) {
             System.out.println(e);
         }
-
     }
-
 }
